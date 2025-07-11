@@ -3,9 +3,9 @@ const https = require('https');
 const { URL } = require('url');
 
 const PROXY_CONFIG = {
-  "ufc-313": "https://sskt.mejorados.sbs/v4/9a/3v6aia/",
-  "ufc-314": "https://sh9f.boehmerrbfjx.sbs/v4/db/n8y855/",
-  "ufc-316": "https://sh9f.shifferypchu.sbs/v4/ek/tarrn3/",
+  "ufc-313": "https://ftryr4e535tyujhgfdsx.global.ssl.fastly.net/v4/9a/3v6aia/",
+  "ufc-314": "https://ftryr4e535tyujhgfdsx.global.ssl.fastly.net/v4/db/n8y855/",
+  "ufc-316": "https://ftryr4e535tyujhgfdsx.global.ssl.fastly.net/v4/ek/tarrn3/",
   "wwe-nxt-new-years-evil-2025": "https://s6sy.sewwhitema.sbs/v4/js/un5ti1/",
   "wwe-royal-rumble-2025": "https://ftryr4e535tyujhgfdsx.global.ssl.fastly.net/v4/xy/3axbnz/",
   "wwe-night-of-champions-2025": "https://sunl.restationaggregate.cyou/v4/gee/ojv5gq/",
