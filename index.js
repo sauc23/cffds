@@ -10,6 +10,7 @@ const PROXY_CONFIG = {
   "wwe-royal-rumble-2025": "https://ftryr4e535tyujhgfdsx.global.ssl.fastly.net/v4/xy/3axbnz/",
   "wwe-night-of-champions-2025": "https://sunl.restationaggregate.cyou/v4/gee/ojv5gq/",
   "aew-dynasty-2025": "https://sr81.pouloszcleed.sbs/v4/61/hlc93j/",
+  "aew-all-in-2025": "https://sr81.executionsynergy.cyou/v4/vz1/pucoym/",
   "ucl-final-2025": "https://smeb.yevettesha.sbs/v4/vz1/n8l9yq/",
   "2025-nba-finals-game-1": "https://snc9.sewwhitema.sbs/v4/6hp/jc9uyr/",
   "2025-nba-finals-game-2": "https://sqtd.catherinakatha.sbs/v4/mf/ureswn/",
